@@ -6,3 +6,5 @@ append this line after commit "main1"
 append this line after create new branch "toRebase1"
 
 append this line after commit "rb1"
+
+and now append this line after commit "rb2"
