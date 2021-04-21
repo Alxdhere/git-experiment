@@ -8,3 +8,7 @@ append this line after create new branch "toRebase1"
 append this line after commit "rb1"
 
 and now append this line after commit "rb2"
+
+This line added after stash!
+
+From branch "fromStash"
